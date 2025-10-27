@@ -11,21 +11,6 @@ Q&A
 
 劝退。复试劣势：双非、跨考、没项目或者成绩差（挂科之类），如果你只有其中一个，那么还是很有希望的，加油准备吧。但如果你有其中两项，我不得不说希望很小，还是换个目标吧。毕竟大家都是成年人了，应该学会了权衡利弊，用最小投入获得最为可能最大的产出，而不是为了一个心中的愿景不计成本地投入。</br>
 
-# THU-912
-
-[![](https://img.shields.io/badge/Author-@HerbertHan-red.svg)](https://github.com/Hanherbert)
-[![](https://img.shields.io/badge/Author-@stellarkey-blue.svg)](https://github.com/stellarkey)
-
-![](https://img.shields.io/badge/License-MIT-000000.svg)
-
----
-
-
-
-本项目继承了[912_project](https://github.com/stellarkey/912_project)中的一部分，以912备考为主线，并添加一些资料和学习过程中的笔记。
-
-
-
 ## **2020年**被录取学硕（非强军计划）的14位同学情况如下:
 
 ### **本科学校统计：**
