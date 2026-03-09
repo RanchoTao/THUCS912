@@ -1,6 +1,16 @@
 操作系统复习笔记
 ===============
 
+操作系统
+http://os.cs.tsinghua.edu.cn/oscourse/
+
+2011-2019本科期中期末卷：http://os.cs.tsinghua.edu.cn/oscourse/OS2020spring/MidExam
+
+Ucore实验指导书：https://chyyuu.gitbooks.io/ucore_os_docs/content/
+陈瑜老师github: https://github.com/chyyuu?tab=repositories
+张慕晖博客（有部分清华本科操作系统期末试卷的分析） https://zhanghuimeng.github.io/
+piazza具体操作 https://next.xuetangx.com/course/THU08091000267/4215533?fromArray=learn_title
+
 ## 参考资料
 
 + [清华大学操作系统课程网站](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring)，上面可以找到 MOOC 配套的讲义，以及清华大学历年操作系统课程期中、期末考试真题。
@@ -42,4 +52,5 @@
 + [lab7 report](lab7_report.md)
 + [lab8 report](lab8_report.md)
 + [我自己的 ucore lab 代码实现](https://github.com/xUhEngwAng/ucore_os_lab)
+
 
